@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<movieRentals>
+    <movie id="203">
+        <title>MovieX</title>
+        <year>2018</year>
+        <genre>COMEDY</genre>
+        <ageRestriction>PG13</ageRestriction>
+        <rentalPrice>2.35</rentalPrice>
+        <available>true</available>
+        <rentCounter>1999</rentCounter>
+    </movie>
+    <movie id="202">
+        <title>Movie202</title>
+        <year>2003</year>
+        <genre>DRAMA</genre>
+        <ageRestriction>GA</ageRestriction>
+        <rentalPrice>1.75</rentalPrice>
+        <available>true</available>
+        <rentCounter>456</rentCounter>
+    </movie>
+    <movie id="201">
+        <title>Dune</title>
+        <year>2021</year>
+        <genre>FANTASY</genre>
+        <ageRestriction>PG13</ageRestriction>
+        <rentalPrice>3.75</rentalPrice>
+        <available>true</available>
+        <rentCounter>1245</rentCounter>
+    </movie>
+    <movie id="211">
+        <title>aaaaaa</title>
+        <year>2018</year>
+        <genre>ACTION</genre>
+        <ageRestriction>PG</ageRestriction>
+        <rentalPrice>1.25</rentalPrice>
+        <available>true</available>
+        <rentCounter>155</rentCounter>
+    </movie>
+</movieRentals>

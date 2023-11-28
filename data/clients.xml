@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<movieRentals>
+    <client id="50">
+        <firstName>ioan</firstName>
+        <lastName>lazar</lastName>
+        <dateOfBirth>1999-12-10</dateOfBirth>
+        <email>ioan.lazar@gmail.com</email>
+        <subscribe>true</subscribe>
+    </client>
+    <client id="11">
+        <firstName>ana</firstName>
+        <lastName>doe</lastName>
+        <dateOfBirth>2000-01-10</dateOfBirth>
+        <email>ana.doe@example.com</email>
+        <subscribe>true</subscribe>
+    </client>
+    <client id="10">
+        <firstName>john</firstName>
+        <lastName>carter</lastName>
+        <dateOfBirth>2000-10-02</dateOfBirth>
+        <email>john.carter@example.com</email>
+        <subscribe>true</subscribe>
+    </client>
+    <client id="51">
+        <firstName>ioana</firstName>
+        <lastName>laza</lastName>
+        <dateOfBirth>1985-01-01</dateOfBirth>
+        <email>ioana.laza@gmail.com</email>
+        <subscribe>false</subscribe>
+    </client>
+</movieRentals>
